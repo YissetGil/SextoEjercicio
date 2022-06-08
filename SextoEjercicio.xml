@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE listacursos SYSTEM "SextoEjercicio.dtd">
+
+<listacursos>
+    <curso>
+        <alumno>
+            <dni>1111</dni>
+            <nombre>Juan</nombre>
+            <apellido1>Sanchez</apellido1>
+            <listaasignaturas>
+                <asignatura codigo="MT">
+                    <nombre>Matematicas</nombre>
+                    <profesor>
+                        <nrp>10000546</nrp>
+                        <nombre>Oscar</nombre>
+                        <apellido1>Gomez</apellido1>
+                        <apellido2>perez</apellido2>
+                    </profesor>
+                </asignatura>
+            </listaasignaturas>
+        </alumno>
+    </curso>
+</listacursos>
